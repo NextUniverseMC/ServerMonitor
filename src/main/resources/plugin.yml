@@ -1,0 +1,4 @@
+name: ServerMonitor
+main: ml.nextuniverse.servermonitor.Main
+version: 0.1-ALPHA
+author: TheDiamondPicks
